@@ -22,7 +22,7 @@ Follow these steps to set up and run the FastAPI application on your local machi
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/ecommerce-app.git
+   git clone git@github.com:divyanshu2003singh/CosmoClound_backend.git
    ```
 
 2. Change into the project directory:
