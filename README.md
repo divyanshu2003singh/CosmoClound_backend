@@ -1,5 +1,5 @@
 # CosmoClound_backend
-Certainly! Here's a sample README file that explains how to start and use your FastAPI application, including steps for setting up and running the server, making requests, and additional information:
+
 
 ---
 
